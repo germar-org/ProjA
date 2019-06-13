@@ -1,4 +1,4 @@
-# helloworld
+# helloworld simple app
 
 How to start the helloworld application
 ---
