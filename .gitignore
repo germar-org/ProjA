@@ -1,3 +1,6 @@
+# 
+# Make sure to update this file regularly with files to be ignored in GitHub
+#
 # Target directory #
 ####################
 target/
